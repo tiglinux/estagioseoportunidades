@@ -1,0 +1,93 @@
+/*
+
+	Code by : Tiago Ribeiro Santos;
+	by : 20/09/2019;
+
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w90 {
+    width: 89.5%;
+}
+
+.w80 {
+    width: 79.5%;
+}
+
+.w70 {
+    width: 69.5%;
+}
+
+.w60 {
+    width: 59.5%;
+}
+
+.w50 {
+    width: 49.5%;
+}
+
+.w40 {
+    width: 39.5%;
+}
+
+.w33 {
+    width: 32.8333%;
+}
+
+.w30 {
+    width: 29.5%;
+}
+
+
+/* Editei de 19.9 para 25%;*/
+
+.w20 {
+    width: 20.5%;
+}
+
+.w10 {
+    width: 9.5%;
+}
+
+header#home .col-md-12>img {
+    width: 25%;
+}
+
+section#cadastre_se {
+    background: red;
+    color: white;
+    padding-bottom: 20px;
+}
+
+#cadastre_se a {
+    background: red;
+    text-decoration: none;
+}
+
+#cadastre_se a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#cadastre_se a:hover {
+    background-color: white;
+    color: red;
+    text-decoration: none;
+}
+
+#funciona .row .col-md-9>span {
+    font-family: montserrat, sans-serif;
+    text-align: center;
+}
+
+img[alt="Free Web Hosting"] {
+    display: none;
+}
